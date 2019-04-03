@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book category="cooking">
+    <title lang="en">Film 1</title>
+    <author>Oksana Tanya</author>
+    <year>2005</year>
+    <price>30.00</price>
+  </book>
+  <book category="children">
+    <title lang="en">Film 2</title>
+    <author>Raya Ola</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  <book category="web">
+    <title lang="en">Film 3</title>
+    <author>Katerina Lena</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+</bookstore>
