@@ -1,5 +1,5 @@
 # ocr-apache-tika-demo-project
-Apache Tika OCR Demo Project
+Apache Tika OCR Demo Java Project
 
 
 Plus aspects:
