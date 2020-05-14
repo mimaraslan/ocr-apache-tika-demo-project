@@ -1,4 +1,4 @@
-# ocr-apache-tika-demo-project
+# Apache Tika OCR Demo Java Project
 Apache Tika OCR Demo Java Project
 
 ![Apache Tika OCR Demo Java Project](src/images/ocr-apache-tika.png)
