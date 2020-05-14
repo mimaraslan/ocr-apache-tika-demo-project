@@ -1,6 +1,7 @@
 # ocr-apache-tika-demo-project
 Apache Tika OCR Demo Java Project
 
+![Apache Tika OCR Demo Java Project](src/resources/images/ocr-apache-tika.png)
 
 Plus aspects:
 Open source.
