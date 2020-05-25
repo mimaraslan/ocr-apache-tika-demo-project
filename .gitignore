@@ -40,10 +40,7 @@ local.properties
 .factorypath
 .springBeans
 .sts4-cache
-.classpath
-.project
-.settings
-mvnw.*
+.mvn/wrapper
 
 ### IntelliJ ###
 .idea/
@@ -66,13 +63,59 @@ nb-configuration.xml
 ### VS Code ###
 .vscode/
 
-### BlueJ files ### 
+### BlueJ files ###
 *.ctxt
 
-### Log file ### 
+### Log file ###
 *.log
 
-### OS X ### 
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# Only exists if Bazel was run
+/bazel-out
+
+# dependencies
+/node_modules
+
+# profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
 .DS_Store
-/.DS_Store
-/.metadata/
+Thumbs.db
+
+# Angular
+/node_modules
+/dist
+package-lock.json
