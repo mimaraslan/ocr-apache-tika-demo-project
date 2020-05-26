@@ -19,6 +19,9 @@ public class _009_PdfParse {
       BodyContentHandler handler = new BodyContentHandler();
       Metadata metadata = new Metadata();
       FileInputStream inputstream = new FileInputStream(new File("Example.pdf"));
+     // FileInputStream inputstream = new FileInputStream(new File("ExampleAlphabetRussian.pdf"));
+     // FileInputStream inputstream = new FileInputStream(new File("ExampleAlphabetTurkish.pdf"));
+
       ParseContext pcontext = new ParseContext();
       
       //parsing the document using PDF parser

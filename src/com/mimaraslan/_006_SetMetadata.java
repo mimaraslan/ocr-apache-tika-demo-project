@@ -44,7 +44,7 @@ public class _006_SetMetadata {
       metadata.set(Metadata.DATE, new Date());
       
       //setting multiple values to author property
-      metadata.set(Metadata.AUTHOR, "ram ,raheem ,robin ");
+      metadata.set(Metadata.AUTHOR, "Katerina ,Tanya ,Yulya ");
       
       //printing all the meta data elements with new elements
       System.out.println("List of all the metadata elements  after adding new elements ");
