@@ -5,8 +5,8 @@ Apache Tika OCR Demo Java Project
 
 Plus aspects:
 - Open source.
-- Text, PDF, JPEG, Html, Xml, Excel documents are doing text parse.
-- Text, PDF, JPEG, Html, Xml, Excel, Mp3, Odp, Mp4, JAR etc. Shows metadata information of files.
+- Text, PDF, JPEG, JPG, Html, Xml, Excel documents are doing text parse.
+- Text, PDF, JPEG, JPG, Html, Xml, Excel, Mp3, Odp, Mp4, JAR etc. showing metadata information of files.
 
 
 Negative aspects:
