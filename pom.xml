@@ -29,7 +29,6 @@
 	<name>ocr-apache-tika-demo-project</name>
 	<description>ocr-apache-tika-demo-project</description>
 
-
 	<dependencies>
 
 		<dependency>
@@ -44,20 +43,6 @@
 			<version>1.24.1</version>
 			<type>pom</type>
 		</dependency>
-
-<!-- 
-		<dependency>
-			<groupId>org.apache.tika</groupId>
-			<artifactId>tika-app</artifactId>
-			<version>1.24.1</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.apache.tika</groupId>
-			<artifactId>tika-java7</artifactId>
-			<version>1.24.1</version>
-		</dependency>
- -->
 
 		<dependency>
 			<groupId>org.apache.tika</groupId>
@@ -77,8 +62,5 @@
 			<version>1.24.1</version>
 		</dependency>
 
-
 	</dependencies>
-
-
 </project>
